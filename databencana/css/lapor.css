@@ -1,0 +1,39 @@
+<style>
+#lapor {
+margin:20px 0 0 20px;
+border: 2px solid #ddd;
+border-radius:20px;
+-moz-border-radius:50px;
+max-height: 90%;
+font-weight: bold;
+color: #606060;
+padding: 10px;
+width: 550px;
+background-color: #ddd;
+}
+#publishlapor {
+border: 2px solid #848484;
+box-shadow: 12px 12px 7px #888888;
+margin: 30px 0 50px 20px;
+padding: 20px;
+max-height: 100%;
+color: #3d3d3d;
+width: 650px;
+font-size: 15px;
+line-height: 15px;
+}
+#publishlapor hr {
+color: #ccc;
+}
+#publishlapor a {
+color: #da5700;
+text-decoration: none;
+font-weight:normal;
+}
+#publishlapor a:link {
+font-weight: bold;
+}
+#publishlapor a:hover {
+text-decoration: underline;
+}
+</style>
